@@ -1,5 +1,4 @@
-print("Hello, Python from VS Code!")
-x = '5'
-y = '10'
+x = 5
+y = 10
 result = x + y
 print("The sum of", x, "and", y, "is:", result)
